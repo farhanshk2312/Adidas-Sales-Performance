@@ -1,6 +1,8 @@
 # Adidas-Sales-Performance
 Adidas Sales Performance Dashboard
+
 Data Source: https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+
 Project Overview
 This project focuses on analyzing Adidas sales data to uncover insights into revenue, profitability, costs, and sales distribution across different dimensions such as product, retailer, and geography. The objective was to design a scalable Power BI dashboard with interactive features that allow stakeholders to track KPIs, identify trends, and make data-driven business decisions.
 ________________________________________
